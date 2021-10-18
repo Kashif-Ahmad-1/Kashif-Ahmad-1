@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kashif-Ahmad-1
+- 👋 Hi, I’m Kashif Ahmad
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Dsa And Machine learning
 - 💞️ I’m looking to collaborate on Linkedin
