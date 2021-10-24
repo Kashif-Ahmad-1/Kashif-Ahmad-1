@@ -1,6 +1,6 @@
 ### Hi there, I'm Kashif Ahmad - aka [Kashif-Ahmad-1][website] 👋
 
-
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kashif_ahmed_1/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kashifahmad1789?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Kashifahmad1789)
 ## I'm a Coder, Developer, and Student!!
 
