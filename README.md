@@ -2,13 +2,14 @@
 
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kashif_ahmed_1/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kashifahmad1789?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Kashifahmad1789)
-## I'm a Coder, Developer, and Student!!
 
+## I'm a Full Stack Developer (MERN Stack)
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other coder
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read Novel
+- 🌱 Currently working as a Full Stack Developer
+- ⚙️ Focused on MERN stack and building production level applications
+- 👯 Open to collaborating on real world and open source projects
+- 🥅 2025 Goals: Improve system design skills and contribute to big projects
+- ⚡ Fun fact: I enjoy reading novels
 
 ### Connect with me:
 
