@@ -28,31 +28,20 @@ Building scalable web applications, automation tools, and AI-powered products.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,materialui,vite,javascript,typescript" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,react,nextjs,redux,mongodb,mysql,redis,cpp,aws,python,postman,materialui" />
 </p>
 
-### Backend
+### Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase,graphql" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,aws,azure,cloudflare,git,github,postman" />
-</p>
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,python" />
-</p>
+- **Backend:** Node.js, Express.js
+- **Frontend:** React.js, Next.js, Redux, Material UI
+- **Languages:** JavaScript, TypeScript, Python, C++
+- **Databases:** MongoDB, MySQL, Redis
+- **Cloud & DevOps:** AWS, DevOps
+- **API Testing:** Postman
 
 ---
 
