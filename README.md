@@ -1,1 +1,138 @@
-<div align="center"> # Hi 👋, I'm Kashif Ahmad ### Full Stack Developer • MERN Stack • AI & SaaS Builder Building scalable web applications, automation platforms, and AI-powered products. <p> <img src="https://komarev.com/ghpvc/?username=Kashif-Ahmad-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p> </div> --- ## 👨‍💻 About Me - 💼 Full Stack Developer specializing in the MERN Stack - 🚀 Passionate about SaaS, AI, Automation, and scalable backend systems - 🌱 Currently learning System Design, DevOps, and Cloud Architecture - 🤝 Open to collaborating on open-source and production-grade projects - ⚡ Love solving real-world engineering challenges --- ## 🛠️ Tech Stack <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,react,nextjs,redux,mongodb,mysql,redis,cpp,aws,python,postman,materialui" /> </p> | Category | Technologies | |-----------|--------------| | **Frontend** | React.js • Next.js • Redux • Material UI | | **Backend** | Node.js • Express.js | | **Languages** | JavaScript • TypeScript • Python • C++ | | **Database** | MongoDB • MySQL • Redis | | **Cloud & DevOps** | AWS • DevOps | | **Tools** | Git • GitHub • Postman | --- ## 🚀 What I'm Working On - 🤖 AI-Powered Applications - ☁️ SaaS Platforms - 💬 WhatsApp Automation - 🔐 Authentication & Security - ⚡ High Performance REST APIs - 📦 Cloud Deployment & DevOps - 🏗️ Scalable Backend Architecture --- ## 📊 GitHub Statistics <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kashif-Ahmad-1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-Ahmad-1&layout=compact&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Kashif-Ahmad-1&theme=github-dark&hide_border=true" /> </p> --- ## 🏆 GitHub Trophies <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Kashif-Ahmad-1&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" /> </p> --- ## 📈 Contribution Graph <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashif-Ahmad-1&theme=github-compact&hide_border=true" /> </p> --- ## 🌐 Connect With Me <p align="center"> <a href="https://github.com/Kashif-Ahmad-1"> <img src="https://skillicons.dev/icons?i=github" width="45" /> </a> &nbsp; <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"> <img src="https://skillicons.dev/icons?i=linkedin" width="45" /> </a> &nbsp; <a href="https://www.instagram.com/kashif_ahmed_1/"> <img src="https://skillicons.dev/icons?i=instagram" width="45" /> </a> &nbsp; <a href="https://twitter.com/Kashifahmad1789"> <img src="https://skillicons.dev/icons?i=twitter" width="45" /> </a> </p> --- <div align="center"> ### 💡 *"Building software that is fast, scalable, and solves real problems."* ⭐ **If you like my work, consider starring my repositories!** </div>
+<div align="center">
+
+# Hi 👋, I'm Kashif Ahmad
+
+### Full Stack Developer | MERN Stack | AI & SaaS Builder
+
+<p>
+Building scalable web applications, automation tools, and AI-powered products.
+</p>
+
+<p>
+  <a href="https://github.com/Kashif-Ahmad-1">
+    <img src="https://komarev.com/ghpvc/?username=Kashif-Ahmad-1&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Full Stack Developer specializing in the **MERN Stack**
+- 🚀 Passionate about building **SaaS platforms**, **AI applications**, and **automation systems**
+- 🌱 Currently exploring **System Design**, **Cloud Infrastructure**, and **High Performance Backend Architecture**
+- 🤝 Open to collaborating on innovative open-source and commercial projects
+- ⚡ I enjoy solving real-world engineering problems and creating scalable products.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,materialui,vite,javascript,typescript" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase,graphql" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,aws,azure,cloudflare,git,github,postman" />
+</p>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,python" />
+</p>
+
+---
+
+## 🏗️ Current Focus
+
+- AI-powered Applications
+- SaaS Development
+- WhatsApp Automation
+- Cloud Deployment
+- REST APIs & Microservices
+- Authentication & Security
+- Performance Optimization
+- System Design
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kashif-Ahmad-1&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-Ahmad-1&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashif-Ahmad-1&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kashif-Ahmad-1&theme=algolia&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashif-Ahmad-1&theme=github-compact"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://github.com/Kashif-Ahmad-1">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://www.instagram.com/kashif_ahmed_1">
+<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+</a>
+
+<a href="https://twitter.com/Kashifahmad1789">
+<img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> *"Code is not just about solving problems. It's about building solutions that scale."*
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
